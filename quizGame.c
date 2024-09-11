@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>  // Include ctype.h for the toupper function
+#include <ctype.h>  // Included ctype.h for the toupper function
 
 void displayQuestion(char *question, char *options[], char correctOption) {
     printf("\n%s\n", question);
